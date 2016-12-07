@@ -11,5 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         Essa é a minha modificação
+        
+        <div><h1>Um teste de commit</h1></div>
     </body>
 </html>
